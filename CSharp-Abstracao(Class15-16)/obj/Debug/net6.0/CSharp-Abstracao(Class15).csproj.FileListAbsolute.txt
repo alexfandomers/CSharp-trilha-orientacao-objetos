@@ -1,0 +1,15 @@
+C:\C#\CSharp-Abstracao(Class15)\bin\Debug\net6.0\CSharp-Abstracao(Class15).exe
+C:\C#\CSharp-Abstracao(Class15)\bin\Debug\net6.0\CSharp-Abstracao(Class15).deps.json
+C:\C#\CSharp-Abstracao(Class15)\bin\Debug\net6.0\CSharp-Abstracao(Class15).runtimeconfig.json
+C:\C#\CSharp-Abstracao(Class15)\bin\Debug\net6.0\CSharp-Abstracao(Class15).dll
+C:\C#\CSharp-Abstracao(Class15)\bin\Debug\net6.0\CSharp-Abstracao(Class15).pdb
+C:\C#\CSharp-Abstracao(Class15)\obj\Debug\net6.0\CSharp-Abstracao(Class15).csproj.AssemblyReference.cache
+C:\C#\CSharp-Abstracao(Class15)\obj\Debug\net6.0\CSharp-Abstracao(Class15).GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharp-Abstracao(Class15)\obj\Debug\net6.0\CSharp-Abstracao(Class15).AssemblyInfoInputs.cache
+C:\C#\CSharp-Abstracao(Class15)\obj\Debug\net6.0\CSharp-Abstracao(Class15).AssemblyInfo.cs
+C:\C#\CSharp-Abstracao(Class15)\obj\Debug\net6.0\CSharp-Abstracao(Class15).csproj.CoreCompileInputs.cache
+C:\C#\CSharp-Abstracao(Class15)\obj\Debug\net6.0\CSharp-Abstracao(Class15).dll
+C:\C#\CSharp-Abstracao(Class15)\obj\Debug\net6.0\refint\CSharp-Abstracao(Class15).dll
+C:\C#\CSharp-Abstracao(Class15)\obj\Debug\net6.0\CSharp-Abstracao(Class15).pdb
+C:\C#\CSharp-Abstracao(Class15)\obj\Debug\net6.0\CSharp-Abstracao(Class15).genruntimeconfig.cache
+C:\C#\CSharp-Abstracao(Class15)\obj\Debug\net6.0\ref\CSharp-Abstracao(Class15).dll

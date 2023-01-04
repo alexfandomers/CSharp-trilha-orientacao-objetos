@@ -1,0 +1,15 @@
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\bin\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).exe
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\bin\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).deps.json
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\bin\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).runtimeconfig.json
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\bin\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).dll
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\bin\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).pdb
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\obj\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).csproj.AssemblyReference.cache
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\obj\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\obj\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).AssemblyInfoInputs.cache
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\obj\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).AssemblyInfo.cs
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\obj\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).csproj.CoreCompileInputs.cache
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\obj\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).dll
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\obj\Debug\net6.0\refint\CSharp-ClassAttributesMethodsObjects(Class3).dll
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\obj\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).pdb
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\obj\Debug\net6.0\CSharp-ClassAttributesMethodsObjects(Class3).genruntimeconfig.cache
+C:\C#\CSharp-ClassAttributesMethodsObjects(Class3)\obj\Debug\net6.0\ref\CSharp-ClassAttributesMethodsObjects(Class3).dll

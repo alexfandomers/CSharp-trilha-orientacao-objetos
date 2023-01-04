@@ -1,0 +1,15 @@
+C:\C#\CSharp-This(Class11)\bin\Debug\net6.0\CSharp-This(Class11).exe
+C:\C#\CSharp-This(Class11)\bin\Debug\net6.0\CSharp-This(Class11).deps.json
+C:\C#\CSharp-This(Class11)\bin\Debug\net6.0\CSharp-This(Class11).runtimeconfig.json
+C:\C#\CSharp-This(Class11)\bin\Debug\net6.0\CSharp-This(Class11).dll
+C:\C#\CSharp-This(Class11)\bin\Debug\net6.0\CSharp-This(Class11).pdb
+C:\C#\CSharp-This(Class11)\obj\Debug\net6.0\CSharp-This(Class11).csproj.AssemblyReference.cache
+C:\C#\CSharp-This(Class11)\obj\Debug\net6.0\CSharp-This(Class11).GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharp-This(Class11)\obj\Debug\net6.0\CSharp-This(Class11).AssemblyInfoInputs.cache
+C:\C#\CSharp-This(Class11)\obj\Debug\net6.0\CSharp-This(Class11).AssemblyInfo.cs
+C:\C#\CSharp-This(Class11)\obj\Debug\net6.0\CSharp-This(Class11).csproj.CoreCompileInputs.cache
+C:\C#\CSharp-This(Class11)\obj\Debug\net6.0\CSharp-This(Class11).dll
+C:\C#\CSharp-This(Class11)\obj\Debug\net6.0\refint\CSharp-This(Class11).dll
+C:\C#\CSharp-This(Class11)\obj\Debug\net6.0\CSharp-This(Class11).pdb
+C:\C#\CSharp-This(Class11)\obj\Debug\net6.0\CSharp-This(Class11).genruntimeconfig.cache
+C:\C#\CSharp-This(Class11)\obj\Debug\net6.0\ref\CSharp-This(Class11).dll

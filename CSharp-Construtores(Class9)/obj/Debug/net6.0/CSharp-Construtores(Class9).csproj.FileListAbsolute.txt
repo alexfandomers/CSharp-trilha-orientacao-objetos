@@ -1,0 +1,15 @@
+C:\C#\CSharp-Construtores(Class9)\bin\Debug\net6.0\CSharp-Construtores(Class9).exe
+C:\C#\CSharp-Construtores(Class9)\bin\Debug\net6.0\CSharp-Construtores(Class9).deps.json
+C:\C#\CSharp-Construtores(Class9)\bin\Debug\net6.0\CSharp-Construtores(Class9).runtimeconfig.json
+C:\C#\CSharp-Construtores(Class9)\bin\Debug\net6.0\CSharp-Construtores(Class9).dll
+C:\C#\CSharp-Construtores(Class9)\bin\Debug\net6.0\CSharp-Construtores(Class9).pdb
+C:\C#\CSharp-Construtores(Class9)\obj\Debug\net6.0\CSharp-Construtores(Class9).csproj.AssemblyReference.cache
+C:\C#\CSharp-Construtores(Class9)\obj\Debug\net6.0\CSharp-Construtores(Class9).GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharp-Construtores(Class9)\obj\Debug\net6.0\CSharp-Construtores(Class9).AssemblyInfoInputs.cache
+C:\C#\CSharp-Construtores(Class9)\obj\Debug\net6.0\CSharp-Construtores(Class9).AssemblyInfo.cs
+C:\C#\CSharp-Construtores(Class9)\obj\Debug\net6.0\CSharp-Construtores(Class9).csproj.CoreCompileInputs.cache
+C:\C#\CSharp-Construtores(Class9)\obj\Debug\net6.0\CSharp-Construtores(Class9).dll
+C:\C#\CSharp-Construtores(Class9)\obj\Debug\net6.0\refint\CSharp-Construtores(Class9).dll
+C:\C#\CSharp-Construtores(Class9)\obj\Debug\net6.0\CSharp-Construtores(Class9).pdb
+C:\C#\CSharp-Construtores(Class9)\obj\Debug\net6.0\CSharp-Construtores(Class9).genruntimeconfig.cache
+C:\C#\CSharp-Construtores(Class9)\obj\Debug\net6.0\ref\CSharp-Construtores(Class9).dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSharp-Get-Set-Properties/1.0.0": {
+        "runtime": {
+          "CSharp-Get-Set-Properties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharp-Get-Set-Properties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

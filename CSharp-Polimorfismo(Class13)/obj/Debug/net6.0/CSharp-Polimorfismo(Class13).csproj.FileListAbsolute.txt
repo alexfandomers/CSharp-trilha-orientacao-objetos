@@ -1,0 +1,15 @@
+C:\C#\CSharp-Polimorfismo(Class13)\bin\Debug\net6.0\CSharp-Polimorfismo(Class13).exe
+C:\C#\CSharp-Polimorfismo(Class13)\bin\Debug\net6.0\CSharp-Polimorfismo(Class13).deps.json
+C:\C#\CSharp-Polimorfismo(Class13)\bin\Debug\net6.0\CSharp-Polimorfismo(Class13).runtimeconfig.json
+C:\C#\CSharp-Polimorfismo(Class13)\bin\Debug\net6.0\CSharp-Polimorfismo(Class13).dll
+C:\C#\CSharp-Polimorfismo(Class13)\bin\Debug\net6.0\CSharp-Polimorfismo(Class13).pdb
+C:\C#\CSharp-Polimorfismo(Class13)\obj\Debug\net6.0\CSharp-Polimorfismo(Class13).csproj.AssemblyReference.cache
+C:\C#\CSharp-Polimorfismo(Class13)\obj\Debug\net6.0\CSharp-Polimorfismo(Class13).GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharp-Polimorfismo(Class13)\obj\Debug\net6.0\CSharp-Polimorfismo(Class13).AssemblyInfoInputs.cache
+C:\C#\CSharp-Polimorfismo(Class13)\obj\Debug\net6.0\CSharp-Polimorfismo(Class13).AssemblyInfo.cs
+C:\C#\CSharp-Polimorfismo(Class13)\obj\Debug\net6.0\CSharp-Polimorfismo(Class13).csproj.CoreCompileInputs.cache
+C:\C#\CSharp-Polimorfismo(Class13)\obj\Debug\net6.0\CSharp-Polimorfismo(Class13).dll
+C:\C#\CSharp-Polimorfismo(Class13)\obj\Debug\net6.0\refint\CSharp-Polimorfismo(Class13).dll
+C:\C#\CSharp-Polimorfismo(Class13)\obj\Debug\net6.0\CSharp-Polimorfismo(Class13).pdb
+C:\C#\CSharp-Polimorfismo(Class13)\obj\Debug\net6.0\CSharp-Polimorfismo(Class13).genruntimeconfig.cache
+C:\C#\CSharp-Polimorfismo(Class13)\obj\Debug\net6.0\ref\CSharp-Polimorfismo(Class13).dll
